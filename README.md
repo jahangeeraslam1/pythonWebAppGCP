@@ -15,6 +15,7 @@ At the moment, the current project provides the user with authentication to log 
 
 
 
-**Currently working on adding more features to this site and leveraging the use of the GCP tools to examine the capability of the service. However a the moment it does seem like a very exciting technology**
+**Currently working on adding more features to this site and leveraging the use of the GCP tools to examine the capability of the service. 
+However at the moment it does seem like a very exciting technology**
 
 Stay tuned!
