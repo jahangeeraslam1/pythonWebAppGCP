@@ -14,6 +14,9 @@ It then provides the user with a log of timestamps, which show the last 10 times
 
 
 ## Whats the Update? 
+
+I have been using the Google Documentation on GCP along with youtube to begin exploring this technology and to assist when making this project. 
+
 **Currently working on adding more features to this site and leveraging the use of the GCP tools to examine the capability of the service. However a the moment it does seem like a very exciting technology**
 
 Stay tuned!
