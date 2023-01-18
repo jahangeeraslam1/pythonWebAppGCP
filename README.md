@@ -8,7 +8,9 @@ I have begun by watching multiple YouTube videos on the topic, as well as watchi
 
 ## Project Developed (so far)
 
-At the moment, the current project provides the user with authentication to log onto the platform using either an email/password combination set by the admin, or by using their Google Account. It then provides the user with a log of timestamps, which show the last 10 times they have logged into the site. Each refresh the user makes updates this log. The Google Documentation on GCP, alongside education resources are currently being used to help develop this project and to learn more about GCP.
+ - At the moment, the current project provides the user with authentication to log onto the platform using either an email/password combination set by the admin, or by using their Google Account. 
+ - It then provides the user with a log of timestamps, which show the last 10 times they have logged into the site. Each refresh the user makes updates this log. 
+ - The Google Documentation on GCP, alongside education resources are currently being used to help develop this project and to learn more about GCP.
 
 
 ## Whats the Update? 
